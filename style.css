@@ -1,9 +1,13 @@
 .filmes {
     display: flex;
+    justify-content: space-between;
 }
 
 .card {
     display: flex;
+    width: 320px;
+    margin: 50px;
+    padding: 10px;
 }
 
 img {
