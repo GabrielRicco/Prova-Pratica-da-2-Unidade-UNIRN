@@ -1,3 +1,7 @@
+.filmes {
+    display: flex;
+}
+
 .card {
     display: flex;
 }
